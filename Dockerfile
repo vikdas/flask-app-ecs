@@ -14,7 +14,7 @@ RUN pip install -r requirements.txt
 EXPOSE 80
 
 # Run the code
-CMD ["python"," run.py"]
+CMD ["python","run.py"]
 
 
 
